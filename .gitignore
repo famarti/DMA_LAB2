@@ -52,3 +52,5 @@ __pycache__/
 *.ipynb_checkpoints/
 
 *copia.ipynb
+
+env
